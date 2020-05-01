@@ -1,0 +1,17 @@
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/ProductController.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Address.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/AddressRepository.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/MembershipLevel.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Product.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Customer.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/App.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/CustomerService.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/entity/Order.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/util/OrderStatus.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/CustomerRepository.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/OrderController.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/ProductService.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/OrderRepository.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/controller/CustomerController.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/repository/ProductRepository.java
+/Users/angelina/eclipse-workspace/inventoryManagement/src/main/java/com/promineotech/inventoryManagement/service/OrderService.java
